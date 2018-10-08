@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E5228854-1E72-4515-BA45-A9412C5A0DED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_bitirmeKuafor</RootNamespace>
+    <AssemblyName>_bitirmeKuafor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="formBase, Version=1.0.3151.33484, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\formBase.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="myTxtBox, Version=1.0.3210.27177, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\myTxtBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Office.dll</HintPath>
+    </Reference>
+    <Reference Include="ouBar, Version=1.0.3142.25274, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ouBar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.Calendar, Version=1.0.4418.41320, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Windows.Forms.Calendar.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaForm.Designer.cs">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GunlukIsler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GunlukIsler.Designer.cs">
+      <DependentUpon>GunlukIsler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GunlukYapilanIs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GunlukYapilanIs.Designer.cs">
+      <DependentUpon>GunlukYapilanIs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hakkinda.Designer.cs">
+      <DependentUpon>Hakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hatirlatma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hatirlatma.Designer.cs">
+      <DependentUpon>Hatirlatma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemInfo.cs" />
+    <Compile Include="KayitListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KayitListele.Designer.cs">
+      <DependentUpon>KayitListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail.Designer.cs">
+      <DependentUpon>Mail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Malzemeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Malzemeler.Designer.cs">
+      <DependentUpon>Malzemeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MuzikCalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MuzikCalar.Designer.cs">
+      <DependentUpon>MuzikCalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personel.Designer.cs">
+      <DependentUpon>Personel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressForm.Designer.cs">
+      <DependentUpon>ProgressForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaticiFirmalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaticiFirmalar.Designer.cs">
+      <DependentUpon>SaticiFirmalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VucutBakim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VucutBakim.Designer.cs">
+      <DependentUpon>VucutBakim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YeniKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YeniKayit.Designer.cs">
+      <DependentUpon>YeniKayit.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaForm.resx">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GunlukIsler.resx">
+      <DependentUpon>GunlukIsler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GunlukYapilanIs.resx">
+      <DependentUpon>GunlukYapilanIs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hakkinda.resx">
+      <DependentUpon>Hakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hatirlatma.resx">
+      <DependentUpon>Hatirlatma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KayitListele.resx">
+      <DependentUpon>KayitListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail.resx">
+      <DependentUpon>Mail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Malzemeler.resx">
+      <DependentUpon>Malzemeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MuzikCalar.resx">
+      <DependentUpon>MuzikCalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personel.resx">
+      <DependentUpon>Personel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressForm.resx">
+      <DependentUpon>ProgressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SaticiFirmalar.resx">
+      <DependentUpon>SaticiFirmalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VucutBakim.resx">
+      <DependentUpon>VucutBakim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YeniKayit.resx">
+      <DependentUpon>YeniKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warning-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\062.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blog-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phone-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wordpress-Widgets-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hakkinda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view-multi-column-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\care.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-music-player-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ok-321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1398481634_mail-delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recycle-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coloring-pages-to-print-human-body-8_LRG.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

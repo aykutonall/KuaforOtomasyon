@@ -1,0 +1,5 @@
+
+Veritabaný'nýn C:\ dizininde 'DATA' adlý klasörün içinde
+olmasý gerekmektedir.
+
+Yol ---- C:\DATA\

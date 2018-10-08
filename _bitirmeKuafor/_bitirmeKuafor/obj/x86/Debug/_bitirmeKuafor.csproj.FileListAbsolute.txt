@@ -1,0 +1,39 @@
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\bin\Debug\_bitirmeKuafor.exe
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\bin\Debug\_bitirmeKuafor.pdb
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.Login.resources
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.Properties.Resources.resources
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.exe
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.pdb
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.ProgressForm.resources
+C:\Documents and Settings\x\Desktop\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.AnaForm.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.exe
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.pdb
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\bin\Debug\_bitirmeKuafor.exe
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\bin\Debug\_bitirmeKuafor.pdb
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.AnaForm.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.Login.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.ProgressForm.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.Properties.Resources.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.YeniKayit.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.KayitListele.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\bin\Debug\_bitirmeKuafor.exe.config
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.Personel.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.GunlukIsler.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.GunlukYapilanIs.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.Hatirlatma.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.Mail.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.VucutBakim.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.MuzikCalar.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.Hakkinda.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.Malzemeler.resources
+C:\Documents and Settings\x\Desktop\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.SaticiFirmalar.resources
+C:\Users\Aydıncan\Desktop\aykutkitapçık\ac\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\bin\Debug\_bitirmeKuafor.exe.config
+C:\Users\Aydıncan\Desktop\aykutkitapçık\ac\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.exe
+C:\Users\Aydıncan\Desktop\aykutkitapçık\ac\Arastirma Teknikleri-Bitirme_Kuaför\Bitirme_Kuafor\_bitirmeKuafor\_bitirmeKuafor\obj\x86\Debug\_bitirmeKuafor.pdb
